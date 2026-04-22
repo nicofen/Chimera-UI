@@ -1,4 +1,4 @@
-# Chimera-UI
+# Chimera-UI (WORK IN PROGRESS THIS IS JUST AN OUTLINE)
 ### Equity + Drawdown chart — 
 the main view. Equity curve in teal with a fade-to-transparent area fill beneath it. Below a separator, the underwater drawdown chart bleeds red from zero — the deeper the fill, the worse the drawdown. Green and red dots mark individual trade exits on the equity line. Crosshair follows the mouse and shows exact equity and percentage return in the tab bar. The two charts are intentionally stacked rather than overlaid so both are readable at once.
 
