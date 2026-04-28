@@ -24,7 +24,8 @@ It provides a clean, modular, and cinematic UI experience for interacting with l
 
 ```bash
 git clone https://github.com/nicofen/Chimera-UI.git
-cd Chimera-UI```
+cd Chimera-UI
+```
 
 ### 2. Download dependencies
 `pip install -r requirements.txt`
